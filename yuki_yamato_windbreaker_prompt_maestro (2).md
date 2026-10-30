@@ -469,6 +469,19 @@ Resumen propio de los cinco primeros arcos, basado en un resumen de YouTube apor
 
 > **Divergencias ya registradas en la partida que afectan a este arco:** Endo conoce a Yuki del Matadero y la ha marcado. En la partida la declaración de guerra da **una semana** (no dos). Yuki estará de baja médica ese día (fisura costal). Taiga tampoco pelea.
 
+### Tramas futuras posibles (NO establecidas en la partida)
+
+Ideas guardadas a petición del jugador. **No son canon de la partida** hasta que el jugador decida activarlas. El simulador nunca las inicia por su cuenta. Yuki sigue siendo controlada solo por el jugador, y su pasado aflora solo cuando él lo elige (ver 3.5 y la Regla de Oro #8).
+
+**TF-1 — "El Matadero"** (esbozada como arco 6 en un ejercicio de metarrealidad)
+- **Detonante:** el vídeo del cambio de guardia que grabó Kiryu sale de Furin y se hace viral en Tokio.
+- **Antagonista:** Kurose, "el Contador", adulto que organiza las apuestas del Matadero (Adachi, debajo de la autopista) y presta dinero a familias desesperadas para cobrarlo en peleas. Afirma que Mitsuki pidió un préstamo para el tratamiento y que Yuki figura como "avalista de pago" (préstamo ilegal; en la partida, Kenji no sabe nada).
+- **Personajes originales:** Sagara Hinata (19 años, desguace junto al Matadero; la persona que salvó a Yuki con el tubo de metal y quedó endeudada con Kurose por ello). Kirishima Daigo (18 años; antiguo "líder" de su instituto de Tokio, ahora campeón del Matadero y en deuda con Kurose). Los "Números" (luchadores con su deuda pintada en la chaqueta).
+- **Revelaciones posibles** (solo si el jugador las acepta): las cadenas de las muñecas serían trozos de la cadena del saco de boxeo de Mitsuki, embargado por la deuda; la chaqueta de cuero de Kenji sería la que llevaba Mitsuki al subir al ring.
+- **Ejes:** Kenji y Yuki enfrentados por usar o no el ahorro de Mitsuki; Sakura decide como capitán ir a Tokio a por una compañera; Furin la acompaña sin que ella lo pida; Endo aparece como comodín y entrega la libreta de Kurose; el tomate de la promesa del tarro de las semillas.
+- **Estado:** idea guardada. Ninguno de estos hechos existe en el mundo hasta que se active.
+
+
 ---
 
 ## XII. INICIO DE SIMULACIÓN
